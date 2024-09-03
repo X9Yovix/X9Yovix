@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 # 💫 About Me:
 ⚡ Engineering student in Software Engineering, currently in my final year and looking forward to collaborations.
 
@@ -18,5 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=X9Yovix&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
