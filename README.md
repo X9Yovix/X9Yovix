@@ -13,7 +13,7 @@
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=X9Yovix&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=X9Yovix&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=X9Yovix&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=X9Yovix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
